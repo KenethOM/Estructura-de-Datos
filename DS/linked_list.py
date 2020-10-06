@@ -39,8 +39,3 @@ class LinkedList:
 
 
 
-ll = LinkedList(5)
-ll.insert_new_head(70)
-ll.insert_new_head(5675)
-ll.insert_new_head(90)
-print(ll.string_list())
